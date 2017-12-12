@@ -1,0 +1,7 @@
+C:\Users\Jacob\source\repos\GlennGameSnake\GlennGameSnake\bin\Debug\GlennGameSnake.exe.config
+C:\Users\Jacob\source\repos\GlennGameSnake\GlennGameSnake\bin\Debug\GlennGameSnake.exe
+C:\Users\Jacob\source\repos\GlennGameSnake\GlennGameSnake\bin\Debug\GlennGameSnake.pdb
+C:\Users\Jacob\source\repos\GlennGameSnake\GlennGameSnake\obj\Debug\GlennGameSnake.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\source\repos\GlennGameSnake\GlennGameSnake\obj\Debug\GlennGameSnake.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\GlennGameSnake\GlennGameSnake\obj\Debug\GlennGameSnake.exe
+C:\Users\Jacob\source\repos\GlennGameSnake\GlennGameSnake\obj\Debug\GlennGameSnake.pdb
